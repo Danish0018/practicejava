@@ -9,7 +9,7 @@ public class Switch {
             break;
             case 2 : System.out.println("Danish");
             break;
-            case 3 : System.out.println("Wase");
+            case 3 : System.out.println("ibrahim");
             break;
             case 4 : System.out.println("Saqib");
             break;
